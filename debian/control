@@ -8,6 +8,6 @@ Homepage: http://gcompris.net
 
 Package: lliurex-gcompris-qt-voices
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, lliurex-gcompris-qt
+Depends: ${shlibs:Depends}, ${misc:Depends}, gcompris-qt
 Description: Voices for gcompris-qt
  Voices for the educational game gcompris-qt
