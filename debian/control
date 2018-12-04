@@ -2,8 +2,8 @@ Source: lliurex-gcompris-qt-voices
 Section: education
 Priority: optional
 Maintainer: M.Angel Juan <m.angel.juan@gmail.com>
-Build-Depends: debhelper (>=9)
-Standards-Version: 3.9.6
+Build-Depends: debhelper (>=10)
+Standards-Version: 4.1.2
 Homepage: http://gcompris.net
 
 Package: lliurex-gcompris-qt-voices
