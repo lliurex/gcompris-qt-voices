@@ -1,3 +1,9 @@
+lliurex-gcompris-qt-voices (0.12) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 04 Dec 2018 09:44:33 +0100
+
 lliurex-gcompris-qt-voices (0.2) xenial; urgency=medium
 
   * Fixed install paths
