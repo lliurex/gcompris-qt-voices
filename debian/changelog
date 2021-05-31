@@ -1,3 +1,9 @@
+lliurex-gcompris-qt-voices (0.22) focal; urgency=medium
+
+  * Initial release for focal
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 31 May 2021 15:27:20 +0200
+
 lliurex-gcompris-qt-voices (0.12) bionic; urgency=medium
 
   * Initial release for bionic
