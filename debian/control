@@ -1,0 +1,13 @@
+Source: lliurex-gcompris-qt-voices
+Section: education
+Priority: optional
+Maintainer: M.Angel Juan <m.angel.juan@gmail.com>
+Build-Depends: debhelper (>=10)
+Standards-Version: 4.1.2
+Homepage: http://gcompris.net
+
+Package: lliurex-gcompris-qt-voices
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, gcompris-qt
+Description: Voices for gcompris-qt
+ Voices for the educational game gcompris-qt
